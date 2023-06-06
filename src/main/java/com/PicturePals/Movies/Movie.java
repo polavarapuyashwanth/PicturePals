@@ -19,6 +19,8 @@ public class Movie {
 
     private String  imdbId;
 
+    private String title;
+
     private String releaseDate;
 
     private String trailerLink;
